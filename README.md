@@ -26,7 +26,7 @@ linkifictasks/
 │   └── Technical Evaluation & Feedback
 │
 └── README.md
-
+```
 📅 Training Progress
 Day	Topic	Status
 Day 1	Technical Instructor Role: Mindset & Responsibilities	✅ Completed
